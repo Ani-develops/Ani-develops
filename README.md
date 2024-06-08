@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita</h1>
-<!-- <h3 align="center">A passionate Data Analyst proficient in SQL, Python, Power BI, and Excel, and proficient at extracting valuable insights from diverse datasets.</h3> -->
+<!-- <h3 align="center">A aspiring Data Analyst proficient in SQL, Python, Power BI, and Excel, and proficient at extracting valuable insights from diverse datasets.</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
